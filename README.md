@@ -1,7 +1,7 @@
 # Ambitually (formerly Ambits)
 Mobile-first web application for habit tracking and location-based accountability
 
-> Bet on Tomrrow, Today!
+> Bet on Tomorrow, Today!
 
 ## Table of Contents
 
@@ -13,10 +13,10 @@ Mobile-first web application for habit tracking and location-based accountabilit
 
 ## Team
   __Greenfield__: Efe Surekli, George Michel, Robert Littlejohn, Ryan Choi
-  
-  
-  __Legacy__: 
-  - _Product Owner:_ Wilson Ng 
+
+
+  __Legacy__:
+  - _Product Owner:_ Wilson Ng
   - _Scrum Master:_ Joe Denea
   - _Awesome Team Members:_ Vy Trinh, Yoshi Oritatsu
 
