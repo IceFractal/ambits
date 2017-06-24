@@ -3,6 +3,8 @@ Mobile-first web application for habit tracking and location-based accountabilit
 
 > Bet on Tomorrow, Today!
 
+![Ambits Example](/ambits.png?raw=true)
+
 ## Table of Contents
 
 1. [Team](#Team)
